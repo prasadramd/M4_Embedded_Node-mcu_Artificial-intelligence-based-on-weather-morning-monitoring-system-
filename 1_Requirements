@@ -1,1 +1,41 @@
-
+HARDWAREDESCRIPTI
+ 1.NODE MCU MICROCONTROLLER
+ Node MCU ESP8266 
+The MCU is a small computer and is composed of Metal Oxide-Semiconductor (MOS) 
+integrated circuit chip. Contains a microprocessor and peripherals for input / output. It is 
+widely used in embedded programs and other standard applications. In all automation and 
+control system is installed with the help of microcontroller. It will easily change and size 
+based on the cycle. Node MCU is an open-source firmware and development kit that helps 
+you create a prototype or build an IoT product. Includes firmware running on ESP8266 Wi - 
+Fi SoC from Espressif Systems, as well as module-based ESP-12 module. The firmware uses 
+Lua scripting language. It is based on the eLua project, and is based on the Espressif Non-
+OS SDK forESP8266.
+Table No 1: Specifications and Features
+Node MCU ESP8266 Tensilica 32-bit RISC CPU Xtensa
+Microcontroller LX106
+Active power supply 3.3V
+Input Voltage 7-12V
+Digital I / O (DIO)pins 16
+Analog Input Anchors (ADC) 1
+UART 1
+SPIs 1
+I2Cs 1
+Flash Memory 4 MB
+SRAM 64 KB
+Clock speed 80 MHz
+2.DHT11 Sensor
+ DHT11 Sensor 
+The sensor or device collects all the moisture associated with the air and sends the report to 
+IoT data storage. Relative humidity to measure the difference between air and humidity. It helps to 
+see the weather and the decision to take when it is raining or not. It is also used in automotive, 
+HVACsystemsandmetrologicalsystems.Occasionally,aftertherains,theairmayfeelmoist.The 
+waterseemstostandintheair.However,insomeACsyoupresscertainbuttonsandthewindblows. 
+Moisture builds up in the air, leading to moisture. However, the moisture sensor in your AC picks 
+it up and cleans it for you. Isn't that amazing? Let's see how he does this. Moisture sensor (or 
+hygrometer)detects,measuresandreportsbothhumidityandairtemperature.Therelativehumidity in the 
+air with the highest humidity at a certain temperature is called relative humidity. Relative 
+humidity becomes an important factor when looking for comfort. Moisture sensors work by 
+detecting changes that change the electric waves or airtemperature.
+3.Rain sensor
+4.moisture sensor
+5.LCD Display
